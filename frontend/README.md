@@ -1,5 +1,5 @@
 # FoodBust
-Foodbust is a food ordering website using Vue and Node.js and Finite StateMachine
+Foodbust is a food ordering website using Vue and Node.js and Finite StateMachine.
 
 ## Project setup
 ```
