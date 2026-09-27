@@ -218,3 +218,5 @@ frontend/  Vue application, routes, Vuex store, screens, and static food images
 - The current user controller stores and compares passwords as plain text. Do not use real or reused passwords.
 - Admin routing is based on an email suffix in the frontend; the API does not enforce administrator authorization. Do not expose these services to untrusted users.
 - The project does not include automated tests or database seed data.
+
+The FoodBust repository was designed strictly as an architectural prototype to study FSM workflow coordination via XState and Express, explicitly prioritizing control flow over production-level security primitives.
