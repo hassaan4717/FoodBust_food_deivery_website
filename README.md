@@ -66,15 +66,6 @@ flowchart TD
 
 The checkout form currently simulates payment in the browser. It does not charge a card or connect to a payment provider.
 
-## Screenshots
-
-These existing project images show representative screens:
-
-![FoodBust home page](frontend/src/assets/images/HomePage.jpg)
-
-![Food detail page](frontend/src/assets/images/FoodDetail.jpg)
-
-![Sign-up page](frontend/src/assets/images/SignUpPage.jpg)
 
 ## Technology
 
